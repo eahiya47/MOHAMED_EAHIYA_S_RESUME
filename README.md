@@ -1,4 +1,4 @@
-# MEMOHAMED EAHIYA  
+# MOHAMED EAHIYA  
 **Computer Science Engineering Student**
 
 📍 Pudukkottai, Tamil Nadu  
@@ -95,4 +95,5 @@ Motivated Computer Science Engineering student with a strong foundation in **Jav
 
 ---
 
-*Last Updated: October 2025*
+
+
