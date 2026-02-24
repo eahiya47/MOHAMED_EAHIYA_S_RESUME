@@ -1,99 +1,136 @@
-# MOHAMED EAHIYA  
-**Computer Science Engineering Student**
+📄 Mohamed Eahiya – Resume
+👨‍💻 Computer Science Engineering Student
 
-📍 Pudukkottai, Tamil Nadu  
-📧 eahiya007@gmail.com  
-📞 +91 63812 12618  
-🐙 GitHub: https://github.com/eahiya47  
+📞 +91 6381212618
+📧 eahiya007@gmail.com
 
----
+🔗 GitHub: https://github.com/eahiya47
+🔗 LinkedIn: https://www.linkedin.com/in/eahiya/
 
-## Profile Summary
-Motivated Computer Science Engineering student with a strong foundation in **Java and Spring Boot**, and hands-on experience building **RESTful and full-stack applications**. Currently learning **Python** and actively using **AI-assisted tools** for code refinement, debugging, and test generation. Strong interest in **backend systems, automation, and problem solving**, with eagerness to grow in an industry-focused engineering environment.
+🧾 Professional Summary
 
----
+Motivated Computer Science Engineering student with a strong foundation in Core Java, Spring Boot, and Object-Oriented Programming. Experienced in developing RESTful applications and working with full-stack technologies using layered architecture and database integration. Familiar with SQL, Data Structures, frontend fundamentals, and AI & ML concepts.
 
-## Education
+Actively involved in academic projects and hackathons, strengthening structured problem-solving, teamwork, and adaptability. Eager to explore emerging technologies and leverage AI-assisted tools to improve coding efficiency and continuous growth in software development.
 
-### **Sri Krishna College of Technology, Coimbatore**
-**B.E – Computer Science and Engineering**  
-*2023 – 2027*  
-- CGPA: **7.35** (till 5th semester)
+🛠 Technical Skills
+💻 Programming Languages
 
-### **Vairams Matric Higher Secondary School, Pudukkottai**
-**Higher Secondary Education (HSC)**  
-*2022 – 2023*  
-- Percentage: **91.5%**
+Java (Core)
 
----
+C++ (Basics)
 
-## Skills
+Python (Basics)
 
-- Core Java  
-- Spring Boot (REST APIs)  
-- Object-Oriented Programming (OOPs)  
-- Basic Data Structures  
-- Python (Basic)  
-- SQL (Basic)  
-- HTML & CSS (Basic)  
-- Problem Solving  
+📚 Concepts
 
----
+Object-Oriented Programming (OOP)
 
-## Languages
+Basic Data Structures & Algorithms
 
-- **English** – Fluent  
-- **Tamil** – Native  
+AI & Machine Learning
 
----
+Database Management
 
-## Experience & Projects
+Cloud Fundamentals
 
-### **ZOHO Corporation**
-**Internship / In-Plant Training**
+🌐 Web & Frameworks
 
----
+Spring Boot
 
-### **IntelliThon’25 – National Hackathon**
-**Participant**  
-- Participated in a 24-hour national hackathon conducted at Hindustan Institute of Technology & Science  
-- Worked on real-time problem statements under strict time constraints  
-- Gained hands-on experience in problem solving, logical thinking, and team collaboration  
-- Improved understanding of software development approaches and innovation practices  
+RESTful APIs
 
----
+React
 
-### **Home Gardening Management System**  
-**Academic Project**  
-*Spring Boot | Java | REST API*
+HTML
 
-- Built a Spring Boot REST application to manage home gardening activities  
-- Implemented CRUD operations using Spring Data JPA with layered architecture  
-- Integrated Swagger for API documentation and Spring AOP for logging  
-- Used GitHub for version control and performed basic unit testing  
+CSS
 
----
+🧰 Tools
 
-### **Scholarship Management System**  
-**Academic Project**  
-*Spring Boot | React | Full-Stack Application*
+Git
 
-- Developed a full-stack application to manage students, scholarships, and applications  
-- Built RESTful APIs using Spring Data JPA with layered architecture  
-- Implemented security, CORS configuration, and global exception handling  
-- Integrated Swagger for API documentation and developed React-based UI components  
-- Performed API integration, basic frontend testing, and production builds  
-- Used AI-assisted tools for debugging backend logic, refining API responses, and generating basic test cases  
+Postman
 
----
+Swagger
 
-## Additional Information
+IDEs
 
-- Strong interest in backend development and automation  
-- Actively improving skills through projects and industry exposure  
-- Comfortable working with modern development tools and frameworks  
+🔄 Practices
 
----
+Frontend Development
 
+Backend Development
 
+Agile Methodology
 
+Web Application Development
+
+🤝 Soft Skills
+
+Team Management
+
+Time Management
+
+Adaptability
+
+Technical Communication
+
+🚀 Experience & Projects
+🏫 Scholarship Management System
+
+Tech Stack: Spring Boot | React | Full-Stack Application
+
+Built a full-stack application using Spring Boot with layered architecture.
+
+Developed RESTful APIs with proper exception handling.
+
+Integrated React frontend with backend services.
+
+Structured documentation and API testing using Postman/Swagger.
+
+📧 Email Spam Detection System
+
+Tech Stack: Python | NLTK | Scikit-learn | Machine Learning
+
+Built a spam classification model using TF-IDF and Naive Bayes.
+
+Achieved 98.4% accuracy and 0.98 ROC-AUC score.
+
+Conducted comprehensive performance evaluation.
+
+🏆 Hackathon Experience
+🏅 ZOHO Corporation – IntelliThon’25 National Hackathon (Participant)
+
+Participated in a 24-hour national-level hackathon at Hindustan Institute of Technology & Science.
+
+Collaborated in a team to analyze real-world problem statements.
+
+Applied logical thinking and rapid prototyping under strict time constraints.
+
+Strengthened teamwork, structured problem-solving, and communication skills.
+
+🎓 Education
+🎓 B.E Computer Science and Engineering (2023 – 2027)
+
+Sri Krishna College of Technology, Coimbatore
+CGPA: 7.35 (till 5th semester)
+
+🏫 Higher Secondary Education (2022 – 2023)
+
+Vairams Matric. Hr. Sec. School – Pudukkottai
+Percentage: 91.5%
+
+📜 Certifications
+
+AWS Cloud Practitioner Essentials – AWS (2025)
+
+Computer Networks and Network Security – IBM (Coursera, 2025)
+
+Introduction to Operating Systems – NPTEL (IIT Madras, 2024)
+
+🌍 Languages
+
+English – Working Proficiency
+
+Tamil – Native Proficiency
