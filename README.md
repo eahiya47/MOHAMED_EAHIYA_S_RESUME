@@ -114,7 +114,7 @@ Strengthened teamwork, structured problem-solving, and communication skills.
 🎓 B.E Computer Science and Engineering (2023 – 2027)
 
 Sri Krishna College of Technology, Coimbatore
-CGPA: 7.35 (till 5th semester)
+CGPA: 7.44 (till 6th semester)
 
 🏫 Higher Secondary Education (2022 – 2023)
 
